@@ -5,6 +5,7 @@ Berikut adalah kode programnya
 
     import java.util.Scanner;
     public class SoalMudahNo2 {
+    
     public static void main(String[] args) {
         Scanner inputan = new Scanner(System.in);
         
